@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<!--   <servlet>
+  	<servlet-name>TimezoneConverterServlet</servlet-name>
+  	<display-name>TimezoneConverterServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.amazonaws.beanstalk.timzoneconverterapp.TimezoneConverterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>TimezoneConverterServlet</servlet-name>
+  	<url-pattern>/TimezoneConverterServlet</url-pattern>
+  </servlet-mapping>
+  
+  <welcome-file-list>
+        <welcome-file>TimezoneConverterServlet</welcome-file>
+        <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list> -->
+  
+</web-app>
